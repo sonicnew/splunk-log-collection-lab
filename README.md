@@ -10,7 +10,7 @@ It showcases how multiple attack scenarios can be detected and analyzed through 
 - **Host Machine**: Windows 10 Pro running Splunk Enterprise
 - **Monitored Endpoint**: Ubuntu 24 VM with Splunk Universal Forwarder & Suricata IDS
 - **Attacker Machine**: Parrot Security OS VM
-- **Network**: VirtualBox Host-Only + NAT configuration
+- **Network**: VirtualBox Bridge adapter configuration
 
 ---
 

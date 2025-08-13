@@ -32,8 +32,8 @@ It showcases how multiple attack scenarios can be detected and analyzed through 
 ## 📂 Repository Structure
 ```
 
-├── Splunk\_Log\_Collection\_Report.pdf   # Full project report
-├── Screenshots\_Lab\_Attacks.rar        # All screenshots documenting the lab
+├── Splunk_Log_Collection_Report.pdf   # Full project report
+├── spulnk.rar        # All screenshots documenting the lab
 └── README.md                          # This file
 
 ```
